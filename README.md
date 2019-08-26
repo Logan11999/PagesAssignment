@@ -25,4 +25,6 @@
 2. [GitHub](https://github.com/Logan11999)
 3. [BitBucket](https://bitbucket.org/%7B5fc27983-6ff0-426c-9ccb-5a49d6cfbd23%7D/)
 
-
+### Image Links
+- [cSharp](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+- [java](https://en.wikipedia.org/wiki/Java_(programming_language)
