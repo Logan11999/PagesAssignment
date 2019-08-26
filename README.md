@@ -8,7 +8,7 @@
 5. C++
 6. JavaScript
 7. ARM
-8. swift
+8. Swift
 
 ## Favorite Language
 
