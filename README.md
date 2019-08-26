@@ -13,7 +13,7 @@
 ## Favorite Language
 ![CSharp Image](https://github.com/Logan11999/PagesAssignment/blob/master/cSharp.png)
 ## Least Favorite Language
-
+![Java Image](https://github.com/Logan11999/PagesAssignment/blob/master/java.png)
 ## Hobbies
 - Reading
 - Video Games
